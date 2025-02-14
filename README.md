@@ -9,5 +9,5 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Contato  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/pedro-felipe-674921306)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-felipe-674921306)  
 [![E-mail](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:pedro.felp2203@gmail.com)  
